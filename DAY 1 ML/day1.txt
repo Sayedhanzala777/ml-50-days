@@ -1,0 +1,15 @@
+Day 01 – Python Basics for Machine Learning
+
+Topics Covered:
+- NumPy arrays and vectorized operations
+- Pandas DataFrame creation and cleaning
+- Basic visualization with matplotlib
+
+What I learned:
+- Vectorized operations are faster than loops
+- How to handle missing values in datasets
+
+Problems faced:
+- Understanding dot product initially
+
+
